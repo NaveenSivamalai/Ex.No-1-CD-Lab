@@ -2,7 +2,7 @@
 ## IMPLEMENTATION OF SYMBOL TABLE
 
 ## Register Number : 212222110030
-## Name :NAVEEN S
+## Name : NAVEEN S
 ## Date : 17.10.2024
 ## AIM:
 To write a C program to implement a symbol table.
